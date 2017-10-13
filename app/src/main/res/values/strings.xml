@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tembisa Tour Guide</string>
+
+
+        <string name="action_settings">Settings</string>
+        <string name="item_title">Tembisa</string>
+        <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+        <string name="home_desc">Tembisa is a large township situated to the north of Kempton Park on the East Rand, Gauteng, South Africa.
+            It was established in 1957 when black people were resettled from Alexandra and other areas in Edenvale, KekkPark, Midrand and Germiston
+    </string>
+        <string name="detail_location">"1632 Tembisa, Ekhurulheni, Johannesburg"</string>
+
+
+</resources>
